@@ -2,7 +2,7 @@
   "name": "filesize",
   "description": "filesize.js plugin by Jason Mulligan",
   "homepage":  "https://github.com/thejinx0r/filesize",
-  "author": "Eric Yen (eric@ericyen.com)",
+  "author": "Eric Yen",
   "version": "2.0.3",
   "git": "https://github.com/thejinx0r/filesize",
   "packages": {
